@@ -1,0 +1,21 @@
+# Dotfiles
+.replit/
+.vscode/
+
+# Environment vars
+.env
+.env.prod
+
+# Modules
+node_modules/
+jspm_modules/
+
+# Image content
+img/*.jpeg
+img/*.png
+img/*.jpg
+img/*.gif
+
+# Others
+replit.nix
+config.json
