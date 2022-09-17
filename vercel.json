@@ -2,11 +2,6 @@
     "github": {
         "silent": true
     },
-    "functions": {
-        "./index.js": {
-            "runtime": "vercel-node@16.17.0"
-        }
-    },
     "routes": [
         {
             "src": "/(.*)",
