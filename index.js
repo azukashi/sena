@@ -8,6 +8,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 app.set('view engine', 'ejs');
 app.use('/img', express.static('img'));
+app.use('/public', express.static('public'));
 
 app.use(cors());
 app.use(express.json());
