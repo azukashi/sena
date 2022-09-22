@@ -1,6 +1,4 @@
-# Sena (セナ)\*
-
-Node.js-based CDN (Content Delivery Network) server for images.
+[![Project banner](https://cdn.upload.systems/uploads/9ZBskF5z.png)](https://falcxxdev.alwaysdata.net)
 
 ## ➡️ Development
 
@@ -48,3 +46,4 @@ This is a very simple image uploading website. Authentication login style is sim
 -   [Multer](https://www.npmjs.com/package/multer)
 -   [img](https://github.com/waifuseum/img) by [@waifuseum](https://github.com/waifuseum)
 -   [Imagizer](https://github.com/birajrai/Imagizer) by [@birajrai](https://github.com/birajrai)
+-   Himuro Sena chibi art by [@aku_oribi](https://www.pixiv.net/en/users/78288477)
