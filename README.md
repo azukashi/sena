@@ -2,6 +2,10 @@
 
 ## ➡️ Development
 
+### 🛠️ Requirements
+
+A [node.js](https://nodejs.org) >= 16.x setup with [pnpm](https://pnpm.io) >= 7.x is recommended.
+
 ### 📝 Create env variables
 
 ```bash
