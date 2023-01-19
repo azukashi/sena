@@ -19,6 +19,6 @@
         "dotenv": "16.0.3",
         "husky": "8.0.3",
         "nodemon": "2.0.20",
-        "prettier": "2.8.2"
+        "prettier": "2.8.3"
     }
 }
